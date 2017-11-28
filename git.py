@@ -15,7 +15,7 @@ more lines
 
 
 =======
-This is some mad coding right here...
+This is some bad coding right here...
 
 Oh wow-  im in a universe over here in this branch
 >>>>>>> mad-coding
