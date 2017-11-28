@@ -15,10 +15,23 @@ more lines
 
 
 =======
+<<<<<<< HEAD
 This is some bad coding right here...
+=======
+This is some rad coding right here...
+>>>>>>> mad-coding
 
 Oh wow-  im in a universe over here in this branch
 >>>>>>> mad-coding
+
+#This is all being added as a new funciton
+
+def subtraction(a, b):
+
+ 	difference = a - b
+
+ 	return difference
+
 
 #def subtraction(a, b):
 
