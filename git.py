@@ -7,9 +7,18 @@ b=2
 
 Oh wow look at this new bit of text im writing...
 
+<<<<<<< HEAD
+
+
+
+more lines
+
+
+=======
 This is some mad coding right here...
 
 Oh wow-  im in a universe over here in this branch
+>>>>>>> mad-coding
 
 #This is all being added as a new funciton
 
