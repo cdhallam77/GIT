@@ -11,6 +11,15 @@ This is some mad coding right here...
 
 Oh wow-  im in a universe over here in this branch
 
+#This is all being added as a new funciton
+
+def subtraction(a, b):
+
+ 	difference = a - b
+
+ 	return difference
+
+
 #def subtraction(a, b):
 
 # 	difference = a - b
