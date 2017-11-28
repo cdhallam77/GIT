@@ -1,6 +1,6 @@
 # def addition(a, b):
-a=1
-b=2
+a=2
+b=4
  	summation = a + b
 
  	return summation
