@@ -1,28 +1,6 @@
 # def addition(a, b):
-a=1
-b=2
- 	summation = a + b
-
- 	return summation
 
 Oh wow look at this new bit of text im writing...
-
-<<<<<<< HEAD
-
-
-
-more lines
-
-
-=======
-<<<<<<< HEAD
-This is some bad coding right here...
-=======
-This is some rad coding right here...
->>>>>>> mad-coding
-
-Oh wow-  im in a universe over here in this branch
->>>>>>> mad-coding
 
 #This is all being added as a new funciton
 
