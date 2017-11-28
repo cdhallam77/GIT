@@ -7,6 +7,8 @@ b=2
 
 Oh wow look at this new bit of text im writing...
 
+This is some mad coding right here...
+
 #def subtraction(a, b):
 
 # 	difference = a - b
